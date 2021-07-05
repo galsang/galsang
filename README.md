@@ -1,4 +1,4 @@
-## Ph.D. student at Seoul National University 
+## Ph.D. Candidate at Seoul National University 
 
 ### Profile: [https://galsang.github.io/](https://galsang.github.io/)
 
@@ -10,14 +10,6 @@
 - Adopting/inducing linguistic knowledge to/from neural networks (e.g., unsupervised parsing)
 - Interpretation and analysis of NLP models
 - Multilingual NLP including one for Korean
-
-### Selected Publications
-
-- [Chart-based Zero-shot Constituency Parsing on Multiple Languages](http://arxiv.org/abs/2004.13805), **Taeuk Kim**, Bowen Li, and Sang-goo Lee, arXiv
-- [Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction](https://openreview.net/forum?id=H1xPR3NtPB), **Taeuk Kim**, Jihun Choi, Daniel Edmiston, and Sang-goo Lee, ICLR 2020.
-- [Don't Just Scratch the Surface: Enhancing Word Representations for Korean with Hanja](https://arxiv.org/abs/1908.09282), **Taeuk Kim***, Kang Min Yoo*, and Sang-goo Lee, EMNLP 2019. (*: equal contribution)
-- [Dynamic Compositionality in Recursive Neural Networks with Structure-aware Tag Representations](https://arxiv.org/abs/1809.02286), **Taeuk Kim**, Jihun Choi, Daniel Edmiston, Sanghwan Bae, and Sang-goo Lee, AAAI 2019.
-
 
 ### Useful Links
 
