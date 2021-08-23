@@ -1,15 +1,6 @@
-## Ph.D. Candidate at Seoul National University 
+## Assisant Professor at Hanyang University
 
-### Profile: [https://galsang.github.io/](https://galsang.github.io/)
-
-### Research Interests
-
-#### Natural Language Processing, Machine Learning & Deep Learning. Especially interested in
-
-- Lexical/sentence-level semantics (e.g., representation learning, language models)
-- Adopting/inducing linguistic knowledge to/from neural networks (e.g., unsupervised parsing)
-- Interpretation and analysis of NLP models
-- Multilingual NLP including one for Korean
+### Personal webpage: [https://galsang.github.io/](https://galsang.github.io/)
 
 ### Useful Links
 
